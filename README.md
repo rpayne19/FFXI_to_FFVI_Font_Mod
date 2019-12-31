@@ -3,7 +3,7 @@ A mod to change the font in FFXI to FFVI's font
 
 For an introduction, please visit: https://www.youtube.com/watch?v=uzUG7tclgiM
 
-For a preview of the latest update: https://www.youtube.com/watch?v=NALWm4Tc9p0&t=89s
+For a preview of the latest update: https://www.youtube.com/watch?v=NALWm4Tc9p0
 
 The folder structure in this git repo matches the paths that the files should go in the 'FINAL FANTASY XI' folder. Note, the ones in the '0' folder are the window mods. They correspond with window configurations 6, 7, and 8 respectively.
 
